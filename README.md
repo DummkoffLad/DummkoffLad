@@ -1,4 +1,4 @@
-# DummkoffLad
+# Santiago Garcia
 
 I'm studying Ingeniería en Tecnologías Computacionales at Tecnológico de Monterrey in Mexico. My work includes client websites, Python applications, APIs, and C++ coursework.
 
